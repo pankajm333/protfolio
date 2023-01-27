@@ -203,6 +203,7 @@ Hero  Section Start
 
 .section-hero {
   background: var(--bg);
+  margin: 9px;
 }
 
 .section-hero-data {
@@ -386,6 +387,7 @@ h3 {
 
 .section-portfolio {
   background-color: var(--bg);
+  margin: 9px;
 }
 
 .section-portfolio p,
@@ -533,6 +535,7 @@ contact Section
 ======================================= */
 
 .section-contact-main {
+  /* margin: 9px; */
   max-width: 70rem;
   margin: 0 auto;
   margin-top: 10rem;
